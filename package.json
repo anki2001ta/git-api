@@ -7,6 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node index.js",
         "deploy": "heroku create",
+        "build": "react-scripts build",
         "updatedeploy": "git add . && git commit -m 'updated' && git push heroku master"
     },
     "repository": {
@@ -21,6 +22,8 @@
     },
     "homepage": "https://github.com/shaantanu9/pharmeasy-API#readme",
     "dependencies": {
-        "json-server": "^0.17.1"
+        "json-server": "^0.17.1",
+        "react": "^18.2.0",
+        "react-scripts": "^5.0.1"
     }
 }
