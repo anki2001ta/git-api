@@ -12,6 +12,48 @@
         "url": "https://pharmeasy.in/plus/redirect/landing?source=taglineCTAText",
         "identifier": "plus/redirect/landing?source=taglineCTAText"
       },
+      "topimgs": [
+        {
+          "url": "https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0",
+          "title":"MEDICINE",
+          "dis":"UPTO 20% OFF"
+        },
+        {
+          "url": "https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0",
+          "title":"MEDICINE",
+          "dis":"UPTO 20% OFF"
+        },
+        {
+          "url": "https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0",
+          "title":"MEDICINE",
+          "dis":"UPTO 20% OFF"
+        },
+        {
+          "url": "https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0",
+          "title":"MEDICINE",
+          "dis":"UPTO 20% OFF"
+        },
+        {
+          "url": "https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0",
+          "title":"MEDICINE",
+          "dis":"UPTO 20% OFF"
+        },
+        {
+          "url": "https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0",
+          "title":"MEDICINE",
+          "dis":"UPTO 20% OFF"
+        },
+        {
+          "url": "https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0",
+          "title":"MEDICINE",
+          "dis":"UPTO 20% OFF"
+        },
+        {
+          "url": "https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0",
+          "title":"MEDICINE",
+          "dis":"UPTO 20% OFF"
+        }
+      ],
       "faqs": [
         {
           "question": "What are the benefits of PharmEasy Plus?",
